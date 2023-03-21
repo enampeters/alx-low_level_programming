@@ -4,18 +4,27 @@
 /**
  * main - Entry point
  * Return: Always 0 (Success)
- * Using putchar for printing only one character at a time
+ * Using putchar for printing possible combinations of 10 digits
  * Betty style format code
  */
 
 int main(void)
 {
 	/* Get character to be written */
-	int n = '0';
+	int n = 48;
 
-	/* Write character to stdout */
-	for (n = '0'; n <= '9'; n++)
+	/*writing to stdout */
+	while (n < 58)
+	{
 		putchar(n);
+		if (n < 57)
+		{
+			putchar(44);
+			putchar(32);
+		}
+		n++;
+	}
+
 	putchar('\n');
 
 	return (0);
