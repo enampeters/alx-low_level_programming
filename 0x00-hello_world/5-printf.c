@@ -2,7 +2,7 @@
 
 /**
  * main - Entry piont
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  * A printf test
  */
 int main(void)

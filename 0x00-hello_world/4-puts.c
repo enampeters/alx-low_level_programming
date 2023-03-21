@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * retun: always 0 (Success)
+ * Return: always 0 (Success)
  * puts function
  * doesnt require /n
  */

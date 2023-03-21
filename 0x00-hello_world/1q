@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+/**
+ * main - Entry piont
+ * Return: Always 0 (Success)
+ * A print without man (3) printf and puts function test
+ */
+int main(void)
+{
+	/**
+	 * Getting stout
+	 */
+	FILE *fp;
+	char str[] = "and that piece of art is useful" / " - Dora korpar, 2015-10-19";
+	fp = fopen("quote", "w"); 
+
+	fwrite(str, 1, sizeof(str), fp);
+
+	fclose(fp);
+
+	return (0);
+}
+
