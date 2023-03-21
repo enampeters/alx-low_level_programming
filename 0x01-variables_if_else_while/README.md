@@ -9,3 +9,6 @@ This project is about conditional statements in C programming.
 7-print_tebahpla.c prints the lowercase alphabet in reverse, followed by a new line.
 8-print_base16.c  prints all the numbers of base 16 in lowercase, followed by a new line.
 9-print_comb.c prints all possible combinations of single-digit numbers.
+100-print_comb3.c creates all possible different combinations of two digit numbers
+101-print_comb4.c generates all possible different combinations of 3 digit numbers.
+102-print_comb5.c generates all possible different combinations of double digit numbers.
