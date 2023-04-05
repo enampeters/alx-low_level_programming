@@ -6,3 +6,5 @@
 5-strstr.c locates a substring
 7-print_chessboard.c prints a chessboard
 8-print_diagsums.c prints the sum of the two diagonals of a square matrix of integers
+100-set_string.c sets a pointer to a char
+101-crackme_password contains the password for the crackme2 executable
