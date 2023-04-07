@@ -5,3 +5,5 @@
 4-pow_recursion.c finds x exponent y
 5-sqrt_recursion.c finds the squareroot of a number
 6-is_prime_number.c determines if a number is prime
+100-is_palindrome.c checks if a string is palindrome
+101-wildcmp.c checks if two strings are identical
