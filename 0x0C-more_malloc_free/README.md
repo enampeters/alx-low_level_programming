@@ -4,3 +4,4 @@ main.h is the header file containing all prototypes of functions created in this
 2-calloc.c allocates a memory to an array
 3-array_range.c allocates a memory to an array of integers.
 100-realloc.c reallocates a memory block using malloc and free
+101-mul.c multiplies two positive numbers
