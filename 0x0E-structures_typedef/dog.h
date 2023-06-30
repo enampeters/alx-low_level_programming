@@ -1,10 +1,13 @@
 #ifndef DOG_H
 #define DOG_H
+
+
 /**
  * file: dog.h
+ *
  * Desc: header file for structure and functions in this project
  *
- *struct dog - A new type describing a dog.
+ * struct dog - A new type describing a dog.
  * @name: name of the dog.
  * @age: age of the dog.
  * @owner: owner of the dog.
